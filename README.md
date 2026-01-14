@@ -31,9 +31,14 @@ Estoy subiendo aquí mis proyectos mientras sigo impulsando mi carrera. Si tiene
 <br>
 <h2 align="left">About me 😃 </h2>
 <p align="left">
-Hi there! 👋 I am a computer systems engineer with experience in IT support, observability and IT operations analysis, and technology data analysis. In my last job, I worked at a technology consulting/implementation firm where I was able to develop in different roles according to the organizational needs. This allowed me to learn more about the world of IT, service delivery, system availability, and continuous improvement.
+Hi there! 👋 I am a computer systems engineer with experience in IT support, observability and IT operations analysis, and technology data analysis. In my last job, I worked at a technology consulting/implementation firm where I was able to develop in different roles according to organizational needs. This allowed me to learn more about the world of IT, service delivery, system availability, and continuous improvement.
 
-My main focus is on analyzing metrics, logs, alerts, and traces, validating the availability and performance of core applications and services, reducing operational noise, preparing reports and technical documentation, conducting post-incident analysis, coordinating with technical teams, and providing support for operational continuity.
+My experience includes:
+* Monitoring and analyzing metrics, logs, and traces.
+* Validating the availability and performance of core applications and services, thereby reducing operational noise and preparing reports and technical documentation.
+* Post-incident analysis.
+* Automating tasks according to business processes, based on user needs.
+* Working and coordinating with technical teams, providing support for operational continuity.
 
 I have worked with monitoring and observability platforms, operational-managerial dashboards, and analysis tools that allow me to identify failures, reduce operational noise, and ensure SLA/SLO compliance.
 
