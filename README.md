@@ -54,25 +54,32 @@ I am uploading my projects here while continuing to advance my career. If you ha
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="36" height="36" alt="SQL" />
   </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="36" height="36" alt="Power BI" />
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="36" height="36" alt="Power BI" />
   </a>
- </p>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width="36" height="36" alt="SQL" />
+  </a>
+  <a href="https://www.redhat.com/es/topics/automation/learning-ansible-tutorial" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=iGCCE2iEmh2u&format=png&color=000000" width="36" height="36" alt="SQL" />
+  </a>
+  </p>
 
 <p align="left">
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000"
-         width="36" height="36" alt="AWS" />
+    <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" width="36" height="36" alt="AWS" />
   </a>
   <!-- Azure -->
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000"
-         width="36" height="36" alt="Azure" />
+    <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" width="36" height="36" alt="Azure" />
   </a>
   <!-- Dynatrace -->
   <a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/monitor.png](https://www.pngall.com/wp-content/uploads/17/Dynatrace-Symbol-Logo-PNG-thumb.png"
-         width="36" height="36" alt="Dynatrace" />
+    <img src="https://img.icons8.com/color/48/monitor.png" width="36" height="36" alt="Dynatrace" />
+  </a>
+  <!-- Vmware -->
+  <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=ICsxwkCBZGfj&format=png&color=000000" width="36" height="36" alt="Dynatrace" />
   </a>
 
